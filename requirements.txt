@@ -1,4 +1,4 @@
 # requirements.txy
-snowflake-connector-python==3.11.9
-snowflake-snowpark-python==1.11.0
+snowflake-connector-python
+snowflake-snowpark-python
 streamlit==1.31.1
